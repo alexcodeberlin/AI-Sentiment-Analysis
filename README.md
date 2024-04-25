@@ -1,7 +1,7 @@
 # AI-Sentiment-Analysis with Tensorflow <br><br>
-1. Setup Project
-2. Project Describtion
-3. Code Describtion
+# 1. Setup Project
+# 2. Project Describtion
+# 3. Code Describtion
 <br>
 # 1. Setup the project and try if your sentence is sarcastic or not<br>
 1. Clone the repository and run it with visual studio code.<br>
