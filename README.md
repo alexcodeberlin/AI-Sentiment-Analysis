@@ -1,4 +1,4 @@
-# AI-Sentiment-Analysis with Tensorflow <br><br>
+# AI-Sentiment-Analysis with Tensorflow <br>
  1. Setup Project
  2. Project Describtion
  3. Code Describtion
