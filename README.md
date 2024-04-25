@@ -3,7 +3,7 @@
 
 # Setup the project and try if your sentence is sarcastic or not<br>
 1. Clone the repository and run it with visual studio code.<br>
-2. Load dataset containing headlines and their sarcasm labels from a JSON file. In the code file change variable "json_datei" to link to the json file "sarcasm.json".<br> json_datei = r'YOUR_LINK\sarcasm.json'<br>
+2.In the code file change variable "json_datei" to link to the json file "sarcasm.json".<br> json_datei = r'YOUR_LINK\sarcasm.json' . This is the dataset of 26.000 headlines.<br>
 2. Run the script<br>
 3. When the Plots are poping up you have to close them. Then the code will go on and show outputs in the console<br>
 4. Scroll down to the last lines in the code. There is the sentence variable. Type in a sentence to find out if the trained model think it is sarcastic or not. The Output values ins the console are between 0.1, 0.2... to 1. The number one is sarcastic and the nnumber zero is not sarcastic.
