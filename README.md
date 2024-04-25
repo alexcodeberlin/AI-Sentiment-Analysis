@@ -1,9 +1,9 @@
 # AI-Sentiment-Analysis with Tensorflow <br>
- 1. Setup Project
- 2. Project Describtion
- 3. Code Describtion
+1. Setup Project
+2. Project Describtion
+3. Code Describtion
 <br>
- 1. Setup the project and try if your sentence is sarcastic or not<br>
+# 1. Setup the project and try if your sentence is sarcastic or not<br>
 1. Clone the repository and run it with visual studio code.<br>
 2. In the code file change variable "json_datei" to link to the json file "sarcasm.json".<br> json_datei = r'YOUR_LINK\sarcasm.json' . This is the dataset of 26.000 headlines.<br>
 3. Run the script<br>
